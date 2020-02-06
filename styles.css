@@ -1,0 +1,35 @@
+
+header{
+  color: Grey;
+    text-align: center;
+}
+
+footer{
+   color: blue;
+   text-align: center;
+}
+ main{
+   padding: 50px 25px;
+   margin: 10px;
+   border: 2px solid blue;
+   background: black;
+ }
+
+.text-blue {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: #31319a;
+}
+.white-text {
+  color: white;
+}
+h2 {
+  color: #add8e6;
+}
+
+li{
+  color:#31319a;
+}
+
+table{
+  color:#31319a;
+}
